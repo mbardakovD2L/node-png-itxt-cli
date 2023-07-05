@@ -1,0 +1,14 @@
+{
+  "name": "baked-badge-poc",
+  "version": "1.0.0",
+  "description": "Tool to add openbadge metadata to png files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mbardakovD2L",
+  "license": "ISC",
+  "dependencies": {
+    "png-metadata": "^1.0.2"
+  }
+}
